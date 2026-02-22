@@ -1,0 +1,6 @@
+Order_id,Timestamp,Product,Price,City,Payment_type
+1001,2026-02-22 02:20:00,Laptop,9070,Mumbai,Credit Card
+1002,2026-02-22 02:21:00,Headphones,26205,Mumbai,Cash on Delivery
+1003,2026-02-22 02:22:01,Phone,31134,Mumbai,UPI
+1004,2026-02-22 02:23:01,Phone,12884,Hyderabad,UPI
+1005,2026-02-22 02:24:02,Headphones,32158,Pune,Credit Card
