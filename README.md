@@ -33,3 +33,8 @@ Run live_sales.py to simulate live transactions.
 Connect Power BI to the Google Sheet.
 
 Refresh dashboard to view updated metrics.
+
+
+
+<img width="1327" height="754" alt="Power BI Desktop 22-Feb-26 10_13_05 PM" src="https://github.com/user-attachments/assets/07b8004b-e2cb-4769-a05d-b129a2260cb4" />
+
